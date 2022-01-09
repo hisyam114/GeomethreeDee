@@ -1,0 +1,2 @@
+artifactDb filter=lfs diff=lfs merge=lfs -text
+vuforia filter=lfs diff=lfs merge=lfs -text
